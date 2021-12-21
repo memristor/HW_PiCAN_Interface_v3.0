@@ -1,0 +1,14 @@
+[0114/224758:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0114/224758:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0115/065427:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0115/210015:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0115/221839:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0116/062316:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0116/082411:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0116/142928:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0117/223051:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0117/223052:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0118/050046:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0118/050047:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0118/050047:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0118/215430:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
