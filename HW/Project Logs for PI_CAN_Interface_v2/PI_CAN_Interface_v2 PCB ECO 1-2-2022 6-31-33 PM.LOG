@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=VCC-5V Pin=C8-2
+Change Component Comment : Designator=L1 Old Comment=10uH New Comment=15uH
+Added Component: Designator=C5(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CER_1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(TANT_1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B340A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00003303"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00005102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00004701"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "56k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "3.24k"; VariantName = "[No Variations]"
+Added Component: Designator=U3(HSOP-8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=VCC-5V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC5_2 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetC6_2 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC6_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=VCC-5V Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR2_1 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetR3_1 Pin=R7-2
+Added Pin To Net: NetName=NetC5_1 Pin=U3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-4
+Added Pin To Net: NetName=NetR2_1 Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=NetC6_2 Pin=U3-7
+Added Pin To Net: NetName=NetC5_2 Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component C5 0.01uF
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component C6 10uF
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component C7 220uF
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component D1 B340A
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component D2 SK34
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component R2 330k
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component R3 10k
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component R4 56k
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component R7 3.24k
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component U3 TPS5430
