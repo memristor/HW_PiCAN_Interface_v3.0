@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\User\Desktop\Altium_Projekti\PiCAN_interface_v3\HW_PiCAN_Interface_v3.0\HW\Project Files\PI_CAN_Interface_v3.PcbDoc
-Date     : 3/2/2022
-Time     : 8:54:16 PM
+PCB File : C:\Users\EliteBook\Desktop\Memristor\HW_PiCAN_Interface_v3.0\HW\Project Files\PI_CAN_Interface_v3.PcbDoc
+Date     : 5.3.2022.
+Time     : 19:27:14
 
 WARNING: Zero hole size multi-layer pad(s) detected
    Pad U3-9(71.628mm,63.373mm) on Multi-Layer on Net GND
@@ -16,9 +16,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Isolated copper: Split Plane  (VCC-3V3) on PWR. Dead copper detected. Copper area is : 0.172 sq. mm
-   Violation between Isolated copper: Split Plane  (VCC-3V3) on PWR. Dead copper detected. Copper area is : 0.172 sq. mm
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -39,6 +37,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

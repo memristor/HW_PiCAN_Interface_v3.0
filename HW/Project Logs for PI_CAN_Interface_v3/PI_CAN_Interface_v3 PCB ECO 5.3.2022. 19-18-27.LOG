@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change component parameters: Designator = "P4" ("P4"); Footprint = "TE CONNECTIVITY_4PIN_MALE"; UniqueID = "\HPJROFFU" ("\HPJROFFU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5" ("P5"); Footprint = "TE CONNECTIVITY_4PIN_MALE"; UniqueID = "\TMEJQSVC" ("\TMEJQSVC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P6" ("P6"); Footprint = "TE CONNECTIVITY_4PIN_MALE"; UniqueID = "\DCAJMOZD" ("\DCAJMOZD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P7" ("P7"); Footprint = "TE CONNECTIVITY_4PIN_MALE"; UniqueID = "\YIXTSVFG" ("\YIXTSVFG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P8" ("P8"); Footprint = "TE CONNECTIVITY_4PIN_MALE"; UniqueID = "\IPWLSKNO" ("\IPWLSKNO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=J4(HM1X3)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC-5V Pin=J4-1
+Added Pin To Net: NetName=VCC-5V Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR1_2
+Added Member To Class: ClassName=PI_CAN_Interface_v3 Member=Component J4 *
