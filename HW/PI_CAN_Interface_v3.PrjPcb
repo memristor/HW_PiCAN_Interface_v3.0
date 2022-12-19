@@ -91,8 +91,175 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=ProjectOutputs\outputs.outjob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=..\..\..\MEMRISTOR_lib\int_lib\Integrated_circuits\Integrated_circuits.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CPLEDCLB
+
+[Document6]
+DocumentPath=..\..\..\MEMRISTOR_lib\int_lib\Integrated_circuits\Integrated_circuits.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CTEDQXFN
+
 [GeneratedDocument1]
+DocumentPath=ProjectOutputs\V1\BOM\BOM-PI_CAN_Interface_v3.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PI_CAN_Interface_v3\Design Rule Check - PI_CAN_Interface_v3.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=ProjectOutputs\V1\NC Drill PCB\PI_CAN_Interface_v3.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\PI_CAN_Interface_v3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\PI_CAN_Interface_v3.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\PI_CAN_Interface_v3.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\PI_CAN_Interface_v3.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=ProjectOutputs\V1\DRC\PI_CAN_Interface_v3.html
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=ProjectOutputs\V1\ERC\PI_CAN_Interface_v3.html
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=ProjectOutputs\V1\NC Drill PCB\PI_CAN_Interface_v3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\PI_CAN_Interface_v3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\PI_CAN_Interface_v3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=ProjectOutputs\V1\Export STEP\PI_CAN_Interface_v3.step
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=ProjectOutputs\V1\NC Drill PCB\PI_CAN_Interface_v3.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=ProjectOutputs\V1\Pick Place\Pick Place for PI_CAN_Interface_v3.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -118,7 +285,7 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=C:\Users\Public\Documents\Altium\AD17\Templates\Component Default Template.XLT
 TemplateStoreRelative=0
 PCB_PrintColor=1
@@ -139,7 +306,7 @@ SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=-1
+SaveSettingsToOutJob=0
 
 [Generic_EDE]
 OutputDir=
@@ -253,7 +420,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP LaserJet MFP M129-M134
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -308,7 +475,9 @@ OutputName8=Schematic Prints
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType9=SimView Print
 OutputName9=SimView Prints
 OutputDocumentPath9=
