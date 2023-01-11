@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:42:16 On 11.1.2023.
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [PI_CAN_Interface_v3.PcbDoc]
+   Generated File[PI_CAN_Interface_v3.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:42:28 On 11.1.2023.

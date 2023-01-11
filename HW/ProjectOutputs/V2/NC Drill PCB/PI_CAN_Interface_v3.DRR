@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PI_CAN_Interface_v3.PcbDoc   11.1.2023.  15:40:55
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOT
+ASCII RoundHoles File : PI_CAN_Interface_v3.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             8         PTH        0.29inch (7.40mm)
+T2      12mil (0.305mm)                                           Round             270       PTH        21.04inch (534.50mm)
+T3      30mil (0.76mm)                                            Round             12        PTH        2.09inch (53.02mm)
+T4      30mil (0.762mm)                                           Round             2         PTH        0.05inch (1.27mm)
+T5      35mil (0.889mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T6      40mil (1.016mm)                                           Round             71        PTH        12.62inch (320.47mm)
+T7      63mil (1.6mm)                                             Round             2         PTH        0.20inch (5.03mm)
+T8      126mil (3.2mm)                                            Round             3         PTH        5.27inch (133.93mm)
+T9      128mil (3.25mm)                                           Round             4         PTH        1.55inch (39.42mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              374
+
+Total Processing Time (hh:mm:ss) : 00:00:00
